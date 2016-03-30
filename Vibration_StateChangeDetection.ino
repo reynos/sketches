@@ -16,7 +16,7 @@
    most Arduino boards)
 
  created  27 Sep 2005
- modified 30 Aug 2011
+ modified 30 Aug 2011 
  by Tom Igoe
 
 This example code is in the public domain.
